@@ -2,6 +2,8 @@
 
 Game pertarungan bergiliran sederhana menggunakan Python, Pygame, gambar kartun, dan konsep OOP.
 
+NAMA: INE YULIANA
+NIM: 14012500134
 ## Fitur
 - Ksatria melawan Naga secara bergiliran.
 - Tombol Serang, Bertahan, Item (+20 HP), dan Main Lagi.
@@ -25,9 +27,3 @@ Game pertarungan bergiliran sederhana menggunakan Python, Pygame, gambar kartun,
 Jika perintah `python` tidak dikenali di Windows, coba `py -m pip install pygame` dan `py game.py`.
 
 Pastikan file `game.py` dan folder `assets` berada di dalam folder project yang sama.
-
-## Sebelum dikumpulkan
-- Isi nama dan NIM pada komentar bagian atas `game.py`.
-- Jalankan dan uji semua tombol.
-- Pastikan folder `assets` ikut diunggah ke GitHub.
-- Tambahkan penjelasan project sesuai instruksi dosen.
